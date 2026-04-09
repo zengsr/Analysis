@@ -4,9 +4,9 @@ setup(
     name="census-income-analysis",
     version="1.0.0",
     description="Census Income Classification & Customer Segmentation Pipeline",
-    author="Your Name",
-    author_email="your.email@example.com",
-    url="https://github.com/yourusername/census-income-analysis",
+    author="S.Zeng",
+    author_email="skyler.zeng00@homail.com",
+    url="https://github.com/zengsr/Analysis/",
     packages=find_packages(),
     python_requires=">=3.9",
     install_requires=[
