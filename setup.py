@@ -5,7 +5,7 @@ setup(
     version="1.0.0",
     description="Census Income Classification & Customer Segmentation Pipeline",
     author="S.Zeng",
-    author_email="skyler.zeng00@homail.com",
+    author_email="skyler.zeng00@hotmail.com",
     url="https://github.com/zengsr/Analysis/",
     packages=find_packages(),
     python_requires=">=3.9",
